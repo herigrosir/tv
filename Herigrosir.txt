@@ -307,7 +307,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/f3df48faafaf4198a65b9763140fce30/index
 #EXTINF:-1 tvg-id="tvOne.my.id" tvg-name="TVOne" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="Nasional", TVOne ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175564474823561.png" group-title="Nasional",Moji20 HD ID
+#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/177037444089151.png" group-title="Nasional",Moji20 HD ID
 http://hydratv.cc/ehsan99/ehsan123/586378
 
 
