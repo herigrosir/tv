@@ -11,7 +11,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
-#EXTINF:-1 tvg-logo="https://mediafireupload.xyz/uploads/175564474823561.png" group-title="Indonesia",AXN ID
+#EXTINF:-1 tvg-logo="https://iili.io/JZIBmlf.png" group-title="Pilihan",AXN ID
 http://hydratv.cc/ehsan99/ehsan123/586436
 
 
