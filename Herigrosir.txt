@@ -10,8 +10,11 @@
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
+
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN ID" tvg-logo="https://iili.io/JZIBmlf.png" group-title="Pilihan", AXN ID
 http://hydratv.cc/ehsan99/ehsan123/586436
+
+
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1580,43 +1583,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png" group-title="Music",Stingray Jazz
 https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
-
-
-
 <====================== NEWS ========================>
 
-
-
 <====================== RELIGI ========================>
-
-
-
-<======================= Internet Radio ===============================>
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",Suara Surabaya FM
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",iRadio
-https://n0b.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABh1BOeOUAFgc7yqd1wPOUtQ
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",Nagaswara FM
-https://live.nagaswarafm.com:9900/stream
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",OZ Radio FM
-http://45.64.97.211:1031/;stream.nsv
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",KISI FM Bogor
-http://live.serverstreaming.net:9340/kisifm
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",KISI FM Bogor
-https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",Kosmonita Malang
-http://202.58.200.26:1055/live
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio",Surabaya
-https://c5.siar.us/proxy/ssfm/stream
-
-#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://id.pngtree.com/so/radio" group-title="Internet Radio", MalangUnisi Yogyakarta
-http://studio1.indostreamers.com:8002/stream/1/
 
 //========================================================================
 // jangan di hapus mesin program 
@@ -1681,5 +1650,3 @@ https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU9
 https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
 https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
-
-
