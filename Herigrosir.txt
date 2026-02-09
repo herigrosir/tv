@@ -11,10 +11,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 https://fta3-cdn-flr.visionplus.id/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN ID" tvg-logo="https://iili.io/JZIBmlf.png" group-title="Pilihan", AXN ID
-http://hydratv.cc/ehsan99/ehsan123/586436
-
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -103,11 +99,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 #https://av-ch-cdn.mncnow.id/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/fb0vdmX.png" group-title="Pilihan",Galaxy HD ID
-http://hydratv.cc/ehsan99/ehsan123/586395
-
-
 
 
 //========================================================================
