@@ -80,7 +80,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/in
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="Pilihan",UNIQUES HD V+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="Premium Movies",UNIQUES HD V+
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -131,7 +131,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg69GbyuzOLYEdyZEQeS0mcpW3q7KAAIUT-g&s" group-title="Pilihan",ORIGINALS HD V+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg69GbyuzOLYEdyZEQeS0mcpW3q7KAAIUT-g&s" group-title="Premium Movies",ORIGINALS HD V+
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
 
@@ -1611,13 +1611,13 @@ https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
 
 <====================== RADIO ========================>
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="RADIO",Hard Rock FM Bandung
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="RADIO",Hard Rock FM Bandung
 http://stream.radiojar.com/fnex9bkswk8uv
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="RADIO",Hard Rock FM Surabaya
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="RADIO",Hard Rock FM Surabaya
 http://stream.radiojar.com/yg8ne2v80k8uv
 
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="RADIO",Hard Rock FM Bali
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="RADIO",Hard Rock FM Bali
 http://stream.radiojar.com/9k28wsbu5k8uv
 
 #EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", 101 Jak FM
@@ -1626,20 +1626,19 @@ https://wz.mari.co.id:1936/web_jakfm/jakfm/chunklist_w1610616570.m3u8
 #EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", I Radio
 https://stream.radiojar.com/4ywdgup3bnzuv
 
-#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="RADIO",i-Radio Bandung
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="RADIO",i-Radio Bandung
 https://stream.radiojar.com/u6ppe6hswk8uv
 
 #EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Imelda FM
 https://server.radioimeldafm.co.id:8030/imeldafm
 
-#EXTINF:-1 tvg-logo="https://iili.io/JmSanMN.png" group-title="RADIO",Pro 1 RRI Alor
+#EXTINF:-1 tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="RADIO",Pro 1 RRI Alor
 https://stream-node0.rri.co.id/streaming/41/9041/rrialorpro1.mp3
 
 #EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Suara Surabaya
 https://c5.siar.us/proxy/ssfm/stream
 
-#EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2021/12/trax-all-new-logo-2022-02-300x138.png" group-title="RADIO",Trax FM Jakarta
-https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
+
 
 <====================== RELIGI ========================>
 
@@ -1706,4 +1705,3 @@ https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU9
 https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
 https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
-
