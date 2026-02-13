@@ -1634,8 +1634,6 @@ https://server.radioimeldafm.co.id:8030/imeldafm
 #EXTINF:-1 tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg" group-title="RADIO",Pro 1 RRI Alor
 https://stream-node0.rri.co.id/streaming/41/9041/rrialorpro1.mp3
 
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Suara Surabaya
-https://c5.siar.us/proxy/ssfm/stream
 
 
 
