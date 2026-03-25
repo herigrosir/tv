@@ -1752,52 +1752,21 @@ https://radio.banyuwangikab.go.id/live
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="RADIO",Suara Surabaya FM
-https://ssfm.siar.us/ssfm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="RADIO",i-Radio Jakarta
-https://n06.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABkpgfN-4Aa0hCvbo_2Vwz6w
-
-#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="RADIO",i-Radio Bandung
-https://stream.radiojar.com/u6ppe6hswk8uv
-
-#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="RADIO",i-Radio Jogja
-https://stream.radiojar.com/hnf2cbv80k8uv
-
-#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="RADIO",i-iRadio Medan
-https://stream.radiojar.com/hkuevehswk8uv
-
-#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="RADIO",i-Radio Makasar
-https://stream.radiojar.com/seqmzfeu5k8uv
-
-#EXTINF:-1 tvg-logo="https://iradiofm.com/wp-content/uploads/2022/06/IRADIO-LOGO-BAWAH-2022-WEB.png" group-title="RADIO",i-Radio Banjarmasin
-https://stream.radiojar.com/qfqd2aw80k8uv
-
-#EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2021/12/trax-all-new-logo-2022-02-300x138.png" group-title="RADIO",Trax FM Jakarta
-https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="RADIO",Hard Rock FM Bandung
-http://stream.radiojar.com/fnex9bkswk8uv
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="RADIO",Hard Rock FM Surabaya
-http://stream.radiojar.com/yg8ne2v80k8uv
-
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="RADIO",Hard Rock FM Bali
-http://stream.radiojar.com/9k28wsbu5k8uv
 
 ======================== DUGEM =====================================
 
-#EXTINF:-1 tvg-logo=""https://i.ibb.co.com/KQ8MFRQ/Screenshot-1.jpg"" group-title="DUGEM",Tiktok 1
+#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Tiktok 1
 https://www.dropbox.com/scl/fi/yfeadmtvaezbd27ozrjyt/DJ-tiktok-1.mp3?rlkey=szlqpk2s5klvu4sqmxqzm5xm1&st=nou4v7zn&dl=1
 
-#EXTINF:-1 tvg-logo=""https://i.ibb.co.com/KQ8MFRQ/Screenshot-1.jpg"" group-title="DUGEM",Untuk dalam mobil 1
+#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Untuk dalam mobil 1
 https://www.dropbox.com/scl/fi/xyqt82upwguafyyrd7vog/4.Dugem-slow-lagu-barat.mp3?rlkey=t6p15ib1tkmk44hw71xjv60p1&st=umi60lk2&dl=1
 
-#EXTINF:-1 tvg-logo=""https://i.ibb.co.com/KQ8MFRQ/Screenshot-1.jpg"" group-title="DUGEM",Untuk dalam mobil 2
+#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Untuk dalam mobil 2
 https://www.dropbox.com/scl/fi/iqh2atlyv4znaxfpp9sw8/5.Dugem-slow-lagu-barat-3.mp3?rlkey=s7dabejojgagmxt92mikf4hk7&st=xwasz2ic&dl=1
 
-#EXTINF:-1 tvg-logo=""https://i.ibb.co.com/KQ8MFRQ/Screenshot-1.jpg"" group-title="DUGEM",Tiktok 2
+#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Tiktok 2
 https://www.dropbox.com/scl/fi/k4mf713n4sdnbbtjm4sar/DJ-tiktok-3.mp3?rlkey=duov4m77xhkkwj4lvyu85e2h1&st=9voi7dee&dl=1
+
 
 
 //========================================================================
