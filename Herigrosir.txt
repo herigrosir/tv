@@ -899,7 +899,6 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165890
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1333,8 +1332,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502951_tvchannels_v1.jpg" group-title="Movie TV", Thrill ⚪
 https://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&userid=lite&chname=Thrill
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1485,10 +1482,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 #EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg" group-title="Lifestyle",Fashion TV 🔴
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
-
-<=================== Entertainment & Lifestyle =============================>
-
-
 ================MUSIK====================
 
 
@@ -1498,17 +1491,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac3
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/rKsF1hm7/CD.png",Citra Dangdut
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-=======================================
-
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/nMK6DR73/POP.png",POP MUSIK
 #https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
-=======================================
-
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/hFpz2ry9/MALEO.png",MALEO
 #https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-id="Music TV - [Channel 142].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/HTwX6TQ4/MUSIC.png" group-title="MUSIC",MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1519,33 +1506,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDang
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-=======================================
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2025.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="musik.id" tvg-name="musik indonesia" tvg-logo="https://i.ibb.co.com/LDVJDmXF/MIC.png" group-title="MUSIC",Musik Indonesia
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-=======================================
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/MynHCnts/MIC.png" group-title="MUSIC",MIC TV
 #EXTVLCOPT:http-referer=https://mic-indo.com/live/
 https://mic.siar.us/mic/live/mic.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="MUSIC",CDI
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
-=======================================
-
 #EXTINF:--1  tvg-logo="https://ia800407.us.archive.org/1/items/music-on-tv/Music%20On%21%20TV.png" group-title="MUSIC", Music ON TV!
 #https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
-=======================================
 
 #EXTINF:-1 tvg-id="MTV 143" tvg-logo="https://i.ibb.co.com/qF5fLHpC/MTV.png" group-title="MUSIC",MTV Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1558,8 +1535,6 @@ http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://cdn10jtedge.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd
 
-=======================================
-
 #EXTINF:-1 tvg-id="MTV 90s - [Channel 144].id" tvg-logo="https://i.ibb.co.com/ym60s41c/MTV90.png" group-title="MUSIC",MTV 90s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
@@ -1568,8 +1543,6 @@ http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #https://dash2.antik.sk/stream/hisi_mtv_90/playlist_cbcs.mpd
-
-=======================================
 
 #EXTINF:-1 tvg-id="mtv00s" tvg-logo="https://i.ibb.co.com/gLvxG8R1/MTV00s.png" group-title="MUSIC",MTV 00s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1580,17 +1553,11 @@ http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #https://dash2.antik.sk/stream/hisi_mtv_00/playlist_cbcs.mpd
 
-=======================================
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/FbfCWr12/IMG-20250820-083226.png", MTV ROCKS
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-=======================================
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co.com/4n0R7CSq/IMG-20251017-203659.png", MTV BIGGEST POP
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-=======================================
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0zfuu9rwq3-xtmDI0QchhGbpDutCTI5er3g&s", MTV SPANKIN NEW
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1598,49 +1565,31 @@ http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR_i-LBoYAOUGVnETGCHWyUr84TpxrmTXQ3A&s", MTV FLOW LATINO
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-=======================================
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxd5VOoKxpTTH9g4Be60ZLNXZdYVfh2A2MA&s", NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-id="activa" tvg-logo="https://i.ibb.co.com/kgckpPDZ/ACTIVA.png" group-title="MUSIC",ACTIVA TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-=======================================
-
 #EXTINF:-1 tvg-id="afn" tvg-logo="https://i.ibb.co.com/Rk07CWp7/AFN.png" group-title="MUSIC",AFN TV
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-id="afrobeat" tvg-logo="https://i.ibb.co.com/RR5RyqY/AFRO.png" group-title="MUSIC",AFROBEATS HD
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-=======================================
-
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.ibb.co.com/pBTzdRwz/IMTV.png" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6s0Pdyt/KPOP.png" group-title="MUSIC",K-Pop TV
 https://live.24hrkpop.com/hls/3/stream.m3u8|user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-=======================================
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6s0Pdyt/KPOP.png" group-title="MUSIC",New K-Pop
 #https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
-
-=======================================
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe0apztKifh384hR-Rz4HGXC_7xi6cUqTPuA&s", DANCE TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N6s0Pdyt/KPOP.png" group-title="MUSIC",K-Pop TVPlay
 https://wahyu1ptv.pages.dev/KPopTvPlay.m3u8
@@ -1651,117 +1600,12 @@ https://wahyu1ptv.pages.dev/kPopCV.m3u8
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/kPopCjENM.png" group-title="MUSIC", K-PopByCjENM
 https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Ibiza.png" group-title="MUSIC", IbizaTV
 https://wahyu1ptv.pages.dev/Ibiza.m3u8
 
-=======================================
 
 
 
-<=================== RADIO =============================>
-
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", AT-Taqwa FM
-https://i.klikhost.com/8840/;
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", AL IMAN
-https://radioislamindonesia.com/aliman.mp3?_=1
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Kajian Islam
-https://stream.zeno.fm/ge2ekgd7f18uv
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Rodja
-https://radioislamindonesia.com/rodja.mp3?_=2
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Ini Islam
-http://radioonline.iniislam.net:9978/;
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Murottal
-https://stream.zeno.fm/z3f462xp1uhvv
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Suara AL-Iman 846 AM
-https://stream.zeno.fm/vc80vpssu98uv
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Suara Muslim Surabaya
-http://pu.klikhost.com:8052/stream
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Wisata FM
-https://c2.siar.us:9889/live
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Okezone
-https://proxy.roov.id/?name=http://202.147.199.98:80/;
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", RDI
-https://proxy.roov.id/?name=http://202.147.199.99:8000/;
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", MNC TRIJAYA FM
-https://proxy.roov.id/?name=http://202.147.199.101:8000/;stream.nsv
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", I Radio
-https://stream.radiojar.com/4ywdgup3bnzuv
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Celebrities Radio
-https://proxy.roov.id/?name=http://202.147.199.100:8000/;
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Suara Surabaya
-https://c5.siar.us/proxy/ssfm/stream
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Imelda FM
-https://server.radioimeldafm.co.id:8030/imeldafm
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Gajahmada FM
-https://server.radioimeldafm.co.id:8040/gajahmadafm
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Kita Cirebon
-https://sunnah.radio.yufid.com/;stream.mp3
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Suara Surabaya
-https://c5.siar.us/proxy/ssfm/stream
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", 101 Jak FM
-https://wz.mari.co.id:1936/web_jakfm/jakfm/chunklist_w1610616570.m3u8
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Persib Radio
-https://s3.vinhostmedia.com:10945/;stream
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Jedag Jedug Online
-https://stream.zeno.fm/rudtpbce6ehvv
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Suara Madiun
-https://play-93fm.madiunkota.go.id/live
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Suara Gratia FAM
-https://stream.zeno.fm/ge2ekgd7f18uv
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Wisata FM
-https://streaming.radiomuslim.com/;stream/1
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Unisa
-https://stream.radiounisia.com/stream/1/
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Unimma FM
-https://ssg.streamingmurah.com:8048/stream
-
-#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", Radio Blambangan FM
-https://radio.banyuwangikab.go.id/live
-
-
-
-======================== DUGEM =====================================
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Untuk dalam mobil 1
-https://www.dropbox.com/scl/fi/yfeadmtvaezbd27ozrjyt/DJ-tiktok-1.mp3?rlkey=szlqpk2s5klvu4sqmxqzm5xm1&st=nou4v7zn&dl=1
-
-#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Untuk dalam mobil 2
-https://www.dropbox.com/scl/fi/xyqt82upwguafyyrd7vog/4.Dugem-slow-lagu-barat.mp3?rlkey=t6p15ib1tkmk44hw71xjv60p1&st=umi60lk2&dl=1
-
-#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Untuk dalam mobil 3
-https://www.dropbox.com/scl/fi/iqh2atlyv4znaxfpp9sw8/5.Dugem-slow-lagu-barat-3.mp3?rlkey=s7dabejojgagmxt92mikf4hk7&st=xwasz2ic&dl=1
-
-#EXTINF:-1 tvg-logo="https://iili.io/qiX75zu.md.jpg" group-title="DUGEM",Untuk dalam mobil 4
-https://www.dropbox.com/scl/fi/k4mf713n4sdnbbtjm4sar/DJ-tiktok-3.mp3?rlkey=duov4m77xhkkwj4lvyu85e2h1&st=9voi7dee&dl=1
 
 
 //========================================================================
