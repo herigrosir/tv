@@ -24,7 +24,6 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TBf1qfxj/GALAXY.png" group-title="PREMIUM TV",GALAXY PREMIUM
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -32,7 +31,6 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="PREMIUM TV" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -42,7 +40,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 group-title="PREMIUM TV" tvg-logo="https://i.ibb.co.com/CpFzG9rS/HBO-HITS.png",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -51,7 +48,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 group-title="PREMIUM TV" tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",HBO Family
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -59,7 +55,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="PREMIUM TV" tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -117,7 +112,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -126,7 +120,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -134,11 +127,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg69GbyuzOLYEdyZEQeS0mcpW3q7KAAIUT-g&s" group-title="PREMIUM TV",ORIGINALS HD V+
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-
 //========================================================================
 // Nasional
 //========================================================================
-
 
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -274,7 +265,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-id="" tvg-name="Oxygen TV" tvg-logo="https://oxygentv.id/img/logo-putih.png" group-title="Nasional", Oxygen TV
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8|referer=https://oxygentv.id/&origin=https://oxygentv.id&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -335,7 +325,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFhj9FL9/MOJI.png" group-title="Nasional",Moji20 HD ID
 http://hydratv.cc/ehsan99/ehsan123/586378
 
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="TVRI.id" group-title="Nasional" tvg-logo="https://iili.io/JmF17zg.png",TVRI Nasional 🔵
@@ -352,7 +341,6 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI World" tvg-logo="https://i.ibb.co.com/ymx1X1FZ/TVRIW.png" group-title="Nasional", TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|referer=https://klik.tvri.go.id/&user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -375,7 +363,6 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="Local", BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2fdc5d5def7460a8dfb78492b66dd4f:a99645e65ce190e9556dda93be172cd4
@@ -451,9 +438,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/3202e9487d9cd5c.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a8g.m3u8
 
-
 <=============== ANAK =====================>
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GgG0f3z/MOONBUG.png" group-title="ANAK",MOONBUG
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -528,7 +513,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/ind
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKTkCqWmuGhM885nbpI1CIiFbWmhCtkIpbxg&s" group-title="ANAK",DREAMWORKS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -547,7 +531,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
-
 #EXTINF:-1 group-title="ANAK" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://why.biz.id/Iptv/oxygen.php?id=vtv  
@@ -557,13 +540,11 @@ https://why.biz.id/Iptv/oxygen.php?id=vtv
 #EXTINF:-1 tvg-id="IndiKids" tvg-name="IndiKids" group-title="ANAK" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="ANAK",Dreamworks HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -584,13 +565,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #EXTINF:-1 group-title="ANAK"  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
 https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd
 
-
 #EXTINF:-1 group-title="ANAK" tvg-logo="https://i.pinimg.com/736x/7b/ae/af/7baeafff7f408e5be7136eb1e62d60a8.jpg",Cartoonito
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
 https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
-
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="ANAK",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
@@ -669,7 +648,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="beINSports5.id" tvg-name="beIN Sports 5" tvg-logo="https://iili.io/JhkQzk7.png" group-title="OLAH RAGA", beIN Sports 5 ID 🔵
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -759,7 +737,6 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #EXTINF:-1 tvg-id="Motorvision+" tvg-name="Motorvision+" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg" group-title="OLAH RAGA", Motorvision+ ⚪
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision+
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="OLAH RAGA", Premier League TV
@@ -776,7 +753,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-name="Dubai Sports 3.ar" tvg-logo="https://i.imgur.com/FzcQgKU.png?v=1.1.1.1" group-title="OLAH RAGA", DubaiSports 3	
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
@@ -920,7 +896,6 @@ http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 
-
 #EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="OLAH RAGA",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
@@ -928,14 +903,12 @@ http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 
-
 #EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503269_tvchannels_v1.jpg" group-title="OLAH RAGA",W-SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -992,10 +965,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd4
 #EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-logo="https://images.indihometv.com/assets/88_HORIZONSPORTS_2025_03_17_15_19_27.png" group-title="OLAH RAGA",HORIZON SPORTS
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8
 
-
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/1h9ie8d4mazxcvy/redbulltv.png" group-title="OLAH RAGA",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
 
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://dl.dropboxusercontent.com/s/o3qd1a1gpe6ztia/dubaisports2.png",Dubai Sport 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
@@ -1003,11 +974,9 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 group-title="OLAH RAGA" tvg-logo="https://dl.dropboxusercontent.com/s/vq8ed1nf10ym1n1/dubaisports3.png",Dubai Sports 3 
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
-
 //========================================================================
 // Pengetahuan & Alam
 //========================================================================
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
@@ -1025,7 +994,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN-Documentary" tvg-logo="https://iili.io/JmoChs2.png" group-title="Pengetahuan & Alam", CGTN Documentary 🔵
 https://d1ebgtxjo246w3.cloudfront.net/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
 https://fta3-cdn-flr.visionplus.id/out/v1/9757e131659a4ab8ba08d448c4a3779e/index.mpd
-
 
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN-Documentary" tvg-logo="https://iili.io/JmoChs2.png" group-title="Pengetahuan & Alam", CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn.m3u8
@@ -1148,7 +1116,6 @@ https://nijineh-lalajo.hf.space/proxy?url=https://nfsnew.newkso.ru/nfs/premium29
 #EXTINF:-1 tvg-id="5f21ea08007a49000762d349" tvg-name="Smithsonian Channel Selects" tvg-logo="https://iili.io/JmoCDmJ.png" group-title="Pengetahuan & Alam", Smithsonian Channel
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 //========================================================================
 // Movies
@@ -1353,7 +1320,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTINF:-1 group-title="HBO-GROUP" tvg-logo="https://i.ibb.co.com/qMWw8Tph/HBO.png",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1361,7 +1327,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="HBO-GROUP" tvg-logo="hhttps://i.ibb.co.com/CpFzG9rS/HBO-HITS.png",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1371,7 +1336,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 group-title="HBO-GROUP" tvg-logo="https://i.ibb.co.com/8DTHTfjB/HBO-FAMILY.png",HBO Family
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1379,7 +1343,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="HBO-GROUP" tvg-logo="https://i.ibb.co.com/zT7PdwCC/HBO-SIGNATURE.png",HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -1483,7 +1446,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mpd/FashionTV.mpd
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
 ================MUSIK====================
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
@@ -1604,9 +1566,106 @@ https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 https://wahyu1ptv.pages.dev/Ibiza.m3u8
 
 
+<=================== RADIO =============================>
 
 
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", AT-Taqwa FM
+https://i.klikhost.com/8840/;
 
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", AL IMAN
+https://radioislamindonesia.com/aliman.mp3?_=1
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Kajian Islam
+https://stream.zeno.fm/ge2ekgd7f18uv
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Rodja
+https://radioislamindonesia.com/rodja.mp3?_=2
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Ini Islam
+http://radioonline.iniislam.net:9978/;
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Murottal
+https://stream.zeno.fm/z3f462xp1uhvv
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Suara AL-Iman 846 AM
+https://stream.zeno.fm/vc80vpssu98uv
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Suara Muslim Surabaya
+http://pu.klikhost.com:8052/stream
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Wisata FM
+https://c2.siar.us:9889/live
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Okezone
+https://proxy.roov.id/?name=http://202.147.199.98:80/;
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", RDI
+https://proxy.roov.id/?name=http://202.147.199.99:8000/;
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", MNC TRIJAYA FM
+https://proxy.roov.id/?name=http://202.147.199.101:8000/;stream.nsv
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", I Radio
+https://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Celebrities Radio
+https://proxy.roov.id/?name=http://202.147.199.100:8000/;
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Suara Surabaya
+https://c5.siar.us/proxy/ssfm/stream
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Imelda FM
+https://server.radioimeldafm.co.id:8030/imeldafm
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Gajahmada FM
+https://server.radioimeldafm.co.id:8040/gajahmadafm
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Kita Cirebon
+https://sunnah.radio.yufid.com/;stream.mp3
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Suara Surabaya
+https://c5.siar.us/proxy/ssfm/stream
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", 101 Jak FM
+https://wz.mari.co.id:1936/web_jakfm/jakfm/chunklist_w1610616570.m3u8
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Persib Radio
+https://s3.vinhostmedia.com:10945/;stream
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Jedag Jedug Online
+https://stream.zeno.fm/rudtpbce6ehvv
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Suara Madiun
+https://play-93fm.madiunkota.go.id/live
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Suara Gratia FAM
+https://stream.zeno.fm/ge2ekgd7f18uv
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Wisata FM
+https://streaming.radiomuslim.com/;stream/1
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Unisa
+https://stream.radiounisia.com/stream/1/
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Unimma FM
+https://ssg.streamingmurah.com:8048/stream
+
+#EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Blambangan FM
+https://radio.banyuwangikab.go.id/live
+
+======================== DUGEM =====================================
+
+#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 1
+https://www.dropbox.com/scl/fi/yfeadmtvaezbd27ozrjyt/DJ-tiktok-1.mp3?rlkey=szlqpk2s5klvu4sqmxqzm5xm1&st=nou4v7zn&dl=1
+
+#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 2
+https://www.dropbox.com/scl/fi/xyqt82upwguafyyrd7vog/4.Dugem-slow-lagu-barat.mp3?rlkey=t6p15ib1tkmk44hw71xjv60p1&st=umi60lk2&dl=1
+
+#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 3
+https://www.dropbox.com/scl/fi/iqh2atlyv4znaxfpp9sw8/5.Dugem-slow-lagu-barat-3.mp3?rlkey=s7dabejojgagmxt92mikf4hk7&st=xwasz2ic&dl=1
+
+#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 4
+https://www.dropbox.com/scl/fi/k4mf713n4sdnbbtjm4sar/DJ-tiktok-3.mp3?rlkey=duov4m77xhkkwj4lvyu85e2h1&st=9voi7dee&dl=1
 
 //========================================================================
 // jangan di hapus mesin program 
