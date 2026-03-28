@@ -1691,19 +1691,7 @@ https://ssg.streamingmurah.com:8048/stream
 #EXTINF:-1 tvg-id="------" group-title="RADIO" group-logo="RADIO"  tvg-logo="https://iili.io/qss2CNt.th.jpg", Radio Blambangan FM
 https://radio.banyuwangikab.go.id/live
 
-======================== DUGEM =====================================
 
-#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 1
-https://www.dropbox.com/scl/fi/yfeadmtvaezbd27ozrjyt/DJ-tiktok-1.mp3?rlkey=szlqpk2s5klvu4sqmxqzm5xm1&st=nou4v7zn&dl=1;
-
-#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 2
-https://www.dropbox.com/scl/fi/xyqt82upwguafyyrd7vog/4.Dugem-slow-lagu-barat.mp3?rlkey=t6p15ib1tkmk44hw71xjv60p1&st=umi60lk2&dl=1
-
-#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 3
-https://www.dropbox.com/scl/fi/iqh2atlyv4znaxfpp9sw8/5.Dugem-slow-lagu-barat-3.mp3?rlkey=s7dabejojgagmxt92mikf4hk7&st=xwasz2ic&dl=1
-
-#EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM",Untuk dalam mobil 4
-https://www.dropbox.com/scl/fi/k4mf713n4sdnbbtjm4sar/DJ-tiktok-3.mp3?rlkey=duov4m77xhkkwj4lvyu85e2h1&st=9voi7dee&dl=1/
 
 //========================================================================
 // jangan di hapus mesin program 
