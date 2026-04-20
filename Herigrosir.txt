@@ -1617,8 +1617,11 @@ https://www.dropbox.com/scl/fi/iqh2atlyv4znaxfpp9sw8/5.Dugem-slow-lagu-barat-3.m
 #EXTINF:-1 tvg-logo="https://iili.io/qsiPRTB.jpg" group-title="DUGEM PENGUSIR SEPI" ,DUGEM 4
 https://www.dropbox.com/scl/fi/k4mf713n4sdnbbtjm4sar/DJ-tiktok-3.mp3?rlkey=duov4m77xhkkwj4lvyu85e2h1&st=9voi7dee&dl=1
 
-#EXTINF:-1 tvg-logo="" group-title="DUGEM PENGUSIR SEPI" ,Lagu Barat Viral 2025
+#EXTINF:-1 tvg-logo="" group-title="DUGEM PENGUSIR SEPI" ,Lagu Barat Viral 2026
 https://bit.ly/4exFVOp
+
+#EXTINF:-1 tvg-logo="" group-title="DUGEM PENGUSIR SEPI" ,Lagu Barat Viral 2026v2
+https://bit.ly/41LqvyB
 
 
 <=================== RADIO =============================>
