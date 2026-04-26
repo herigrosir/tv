@@ -170,8 +170,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://i.ibb.co.com/8gM8jxy0/CNN.png" group-title="Nasional",CNN INDONESIA
+#EXTINF:-1 tvg-name="Nasional" tvg-logo="https://i.ibb.co.com/8gM8jxy0/CNN.png" group-title="Nasional",CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_cnnindonesia.png",CNN Indonesia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb146383a484f0ba375fadd797d548d:da513424b31b49c2bb98fc839f70af25
+https://cdnjktbpid22.transvision.co.id/riutx01-f7ca1246e8344b1555401d2624b19de4b9490ad4cd8adfa11a9dc0c802f6653d/dash/Q05OaS1teQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://i.ibb.co.com/tPHJ7gzF/GARUDA.png" group-title="Nasional", Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
@@ -1008,6 +1013,11 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 // Pengetahuan & Alam
 //========================================================================
 
+#EXTINF:-1 group-title="Pengetahuan & Alam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
@@ -1602,6 +1612,9 @@ https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Ibiza.png" group-title="MUSIC", IbizaTV
 https://wahyu1ptv.pages.dev/Ibiza.m3u8
+
+
+
 
 //========================================================================
 // jangan di hapus mesin program 
